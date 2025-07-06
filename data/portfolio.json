@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Modern E-commerce Platform",
+      "category": "Web",
+      "client": "TechStore Inc.",
+      "year": "2024",
+      "image": "/placeholder.svg?height=400&width=600",
+      "description": "A sleek e-commerce platform with modern design and seamless user experience. Built with Next.js and integrated payment solutions.",
+      "tags": ["E-commerce", "Next.js", "Stripe", "Responsive"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Brand Identity Design",
+      "category": "Branding",
+      "client": "StartupCo",
+      "year": "2024",
+      "image": "/placeholder.svg?height=400&width=600",
+      "description": "Complete brand identity package including logo, colors, typography, and comprehensive brand guidelines.",
+      "tags": ["Logo Design", "Brand Guidelines", "Typography", "Color Palette"],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Marketing Campaign Graphics",
+      "category": "Graphics",
+      "client": "Marketing Agency",
+      "year": "2023",
+      "image": "/placeholder.svg?height=400&width=600",
+      "description": "Creative graphics for digital marketing campaigns across multiple platforms including social media and web.",
+      "tags": ["Social Media", "Digital Marketing", "Campaign Design", "Multi-platform"],
+      "featured": true
+    }
+  ]
+}

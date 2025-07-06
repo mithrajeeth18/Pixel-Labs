@@ -1,0 +1,97 @@
+{
+  "services": [
+    {
+      "id": "logo-design",
+      "title": "Logo / Card Design",
+      "description": "Professional logo and business card designs that represent your brand identity perfectly.",
+      "features": [
+        "Custom Logo Design",
+        "Business Card Design",
+        "Brand Guidelines",
+        "Multiple Formats (PNG, SVG, PDF)",
+        "Unlimited Revisions"
+      ],
+      "startingPrice": 5000,
+      "deliveryTime": "3-5 days",
+      "popular": false
+    },
+    {
+      "id": "visual-branding",
+      "title": "Visual Branding",
+      "description": "Complete brand identity packages including color schemes, typography, and comprehensive guidelines.",
+      "features": [
+        "Brand Strategy",
+        "Logo Design",
+        "Color Palette",
+        "Typography Selection",
+        "Brand Guidelines",
+        "Marketing Materials"
+      ],
+      "startingPrice": 15000,
+      "deliveryTime": "2-3 weeks",
+      "popular": true
+    },
+    {
+      "id": "digital-marketing",
+      "title": "Digital Marketing",
+      "description": "Strategic digital marketing campaigns designed to boost your online presence and engagement.",
+      "features": [
+        "Social Media Strategy",
+        "Content Creation",
+        "Ad Campaign Management",
+        "Analytics & Reporting",
+        "SEO Optimization"
+      ],
+      "startingPrice": 10000,
+      "deliveryTime": "Ongoing",
+      "popular": false
+    },
+    {
+      "id": "graphic-design",
+      "title": "Graphic Design",
+      "description": "Creative graphic design solutions for both print and digital media applications.",
+      "features": [
+        "Print Design",
+        "Digital Graphics",
+        "Marketing Materials",
+        "Social Media Graphics",
+        "Packaging Design"
+      ],
+      "startingPrice": 3000,
+      "deliveryTime": "2-7 days",
+      "popular": false
+    },
+    {
+      "id": "web-development",
+      "title": "Web Development",
+      "description": "Modern, responsive websites built with the latest technologies and best practices.",
+      "features": [
+        "Responsive Design",
+        "Modern Technologies",
+        "SEO Optimized",
+        "Fast Loading",
+        "Mobile First",
+        "CMS Integration"
+      ],
+      "startingPrice": 25000,
+      "deliveryTime": "2-6 weeks",
+      "popular": true
+    },
+    {
+      "id": "seo-optimization",
+      "title": "SEO Optimization",
+      "description": "Search engine optimization services to improve your website visibility and rankings.",
+      "features": [
+        "Keyword Research",
+        "On-Page SEO",
+        "Technical SEO",
+        "Content Optimization",
+        "Monthly Reports",
+        "Competitor Analysis"
+      ],
+      "startingPrice": 8000,
+      "deliveryTime": "Ongoing",
+      "popular": false
+    }
+  ]
+}
