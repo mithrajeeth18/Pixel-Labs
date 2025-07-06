@@ -49,8 +49,7 @@ export default function ContactPage() {
               Get In <span className="text-gray-900">Touch</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Ready to take your brand to the next level? Let's discuss your project and create something amazing
-              together.
+              {"Ready to take your brand to the next level? Let's discuss your project and create something amazing together. "}
             </p>
           </motion.div>
         </div>
@@ -95,7 +94,7 @@ export default function ContactPage() {
                       >
                         the.pixellabs.co@gmail.com
                       </a>
-                      <p className="text-sm text-gray-500 mt-1">We'll respond within 24 hours</p>
+                      <p className="text-sm text-gray-500 mt-1">{"We'll respond within 24 hours"}</p>
                     </div>
                   </div>
 
@@ -152,7 +151,7 @@ export default function ContactPage() {
                 <CardHeader>
                   <CardTitle className="text-2xl">Send us a message</CardTitle>
                   <CardDescription>
-                    Fill out the form below and we'll get back to you within 24 hours with a detailed proposal.
+                    {" Fill out the form below and we'll get back to you within 24 hours with a detailed proposal."}
                   </CardDescription>
                 </CardHeader>
                 <CardContent>

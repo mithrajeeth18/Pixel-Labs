@@ -129,8 +129,7 @@ export default function PortfolioPage() {
               Our <span className="text-gray-900">Portfolio</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Explore our latest projects and see how we've helped businesses transform their digital presence and brand
-              identity.
+              {"Explore our latest projects and see how we've helped businesses transform their digital presence and brand identity."}
             </p>
           </motion.div>
         </div>
@@ -227,7 +226,7 @@ export default function PortfolioPage() {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Start Your Project?</h2>
             <p className="text-xl mb-8 opacity-90">
-              Let's create something amazing together. Contact us for a free consultation.
+              {"  Let's create something amazing together. Contact us for a free consultation."}
             </p>
             <Button asChild size="lg" variant="secondary">
               <a href="/contact">Get Started Today</a>

@@ -73,7 +73,7 @@ export default function PortfolioShowcase() {
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Featured Work</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
-            Explore our latest projects and see how we've helped businesses transform their digital presence.
+            {"Explore our latest projects and see how we've helped businesses transform their digital presence."}
           </p>
 
           {/* Category Filter */}

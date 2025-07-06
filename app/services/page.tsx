@@ -146,7 +146,7 @@ export default function ServicesPage() {
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Get Started?</h2>
             <p className="text-xl mb-8 opacity-90">
-              Contact us today for a free consultation and let's discuss your project.
+              {"Contact us today for a free consultation and let's discuss your project."}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg" variant="secondary">

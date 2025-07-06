@@ -110,7 +110,7 @@ export default function ContactCTA() {
             <Card>
               <CardHeader>
                 <CardTitle>Send us a message</CardTitle>
-                <CardDescription>Fill out the form below and we'll get back to you within 24 hours.</CardDescription>
+                <CardDescription>{"Fill out the form below and we'll get back to you within 24 hours."}</CardDescription>
               </CardHeader>
               <CardContent>
                 <form onSubmit={handleSubmit} className="space-y-6">
